@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="USTIVO Banner" width="100%" />
+</p>
 # USTIVO
 
 **Telegram Mini App для поиска услуг и мастеров в Узбекистане 🇺🇿**
